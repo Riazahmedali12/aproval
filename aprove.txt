@@ -5,3 +5,4 @@
 2-physical-4-logical-unameresultsystem=Windows-node=DESKTOP-E628JCE-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-60-Stepping-3-GenuineIntel
 8-physical-16-logical-unameresultsystem=Windows-node=WIN-A0N2ICTRBA4-release=2019Server-version=10.0.17763-machine=AMD64Windows-2019Server-10.0.17763-SP0AMD64Intel64-Family-6-Model-26-Stepping-5-GenuineIntel
 1-physical-1-logical-unameresultsystem=Windows-node=SadeemRDP-release=2022Server-version=10.0.20348-machine=AMD64Windows-2022Server-10.0.20348-SP0AMD64Intel64-Family-6-Model-79-Stepping-1-GenuineIntel
+4-physical-8-logical-unameresultsystem=Windows-node=Riaz-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-60-Stepping-3-GenuineIntel
